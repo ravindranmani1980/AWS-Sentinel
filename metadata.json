@@ -1,0 +1,6 @@
+{
+  "name": "AWS Sentinel - S3 & IAM Security Auditor",
+  "description": "Comprehensive security auditor for AWS infrastructure. Detects misconfigured S3 storage buckets, unauthorized IAM access permissions, and exports compliance reports in PDF with step-by-step remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
